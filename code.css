@@ -1,4 +1,11 @@
-.button-add, .button-start {
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.button-add,
+.button-start {
     padding: 15px;
     background-color: white;
     border: 1px solid black;
@@ -10,6 +17,7 @@
 .button-add {
     border: 1px solid #2196F3;
 }
+
 .button-start {
     border: 1px solid #ff9800;
 }

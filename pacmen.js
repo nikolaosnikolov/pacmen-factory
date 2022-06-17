@@ -1,3 +1,6 @@
+const body = document.body
+const buttonStart = document.getElementById('button-start')
+
 var pos = 0;
 const pacArray = [
   ['./images/PacMan1.png', './images/PacMan2.png'],
@@ -31,6 +34,7 @@ function makePac() {
 }
 
 function update() {
+  body.style.backgroundColor = 'brown'
   pacMen.forEach((item) => {
     checkCollisions(item);
     item.position.x += item.velocity.x;
