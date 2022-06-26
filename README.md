@@ -6,4 +6,4 @@ If you want to run this project you can just open the HTML file on a web browser
 ## Future changes I would do
 For this projects there was a specific thing to do, so this one has been done. What I mean is that the project was to make PacMen move and that got real. So, I would improve something in the future if I had a better idea.
 ## Lisence
-Project free to use. No ready template was used in order to complete this project. PacMen images were found on the Internet and were given to me.
+MIT lisence. PacMen images were found on the Internet and were given to me.
